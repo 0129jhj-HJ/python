@@ -3,7 +3,7 @@
 __pycache__/
 
 .venv/
-
+.vscode
 
 /bin/
 /lib/
